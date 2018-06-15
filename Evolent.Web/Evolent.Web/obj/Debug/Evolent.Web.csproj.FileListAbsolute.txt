@@ -52,3 +52,7 @@ C:\Users\khamarer\documents\visual studio 2015\Projects\Evolent.Web\Evolent.Web\
 C:\Users\khamarer\documents\visual studio 2015\Projects\Evolent.Web\Evolent.Web\bin\System.Web.Mvc.xml
 C:\Users\khamarer\documents\visual studio 2015\Projects\Evolent.Web\Evolent.Web\obj\Debug\Evolent.Web.dll
 C:\Users\khamarer\documents\visual studio 2015\Projects\Evolent.Web\Evolent.Web\obj\Debug\Evolent.Web.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.Web\Evolent.Web\obj\Debug\Evolent.Web.csprojResolveAssemblyReference.cache
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.Web\Evolent.Web\obj\Debug\Evolent.Web.csproj.CoreCompileInputs.cache
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.Web\Evolent.Web\obj\Debug\Evolent.Web.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.Web\Evolent.Web\obj\Debug\Evolent.Web.pdb
