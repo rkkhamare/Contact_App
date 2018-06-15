@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\bin\Debug\Evolent.WebAPI.Tests.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-06-15" time="18:41:40">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8804" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="L10ASO-PF0WLCBH" user="KhamareR" user-domain="HQ" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\bin\Debug\Evolent.WebAPI.Tests.dll" executed="True" result="Failure" success="False" time="75.797" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Evolent" executed="True" result="Failure" success="False" time="75.784" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="WebAPI" executed="True" result="Failure" success="False" time="75.783" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="75.781" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="ContactControllerTest" executed="True" result="Failure" success="False" time="75.778" asserts="0">
+                    <results>
+                      <test-case name="Evolent.WebAPI.Tests.ContactControllerTest.GetAllProductsTest" executed="True" result="Error" success="False" time="72.126" asserts="0">
+                        <failure>
+                          <message><![CDATA[System.AggregateException : One or more errors occurred.
+  ----> System.Net.Http.HttpRequestException : An error occurred while sending the request.
+  ----> System.Net.WebException : Unable to connect to the remote server
+  ----> System.Net.Sockets.SocketException : No connection could be made because the target machine actively refused it [::1]:55551]]></message>
+                          <stack-trace><![CDATA[at Evolent.WebAPI.Tests.Helpers.ApiHandler.ExecuteGetAPIExtendedTime[T](String apiRequestURL, Func`1 requestString) in C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\Helpers\ApiHandler.cs:line 32
+at Evolent.WebAPI.Tests.Helpers.Helper.GetContactList() in C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\Helpers\Helper.cs:line 25
+at Evolent.WebAPI.Tests.ContactControllerTest.GetAllProductsTest() in C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\ContactControllerTest.cs:line 54
+--HttpRequestException
+
+--WebException
+at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+--SocketException
+at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

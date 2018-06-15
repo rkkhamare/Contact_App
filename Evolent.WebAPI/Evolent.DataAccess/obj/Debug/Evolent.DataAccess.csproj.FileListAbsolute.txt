@@ -1,0 +1,10 @@
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\bin\Debug\Evolent.DataAccess.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\bin\Debug\Evolent.DataAccess.pdb
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\bin\Debug\Dapper.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\bin\Debug\Evolent.Entities.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\bin\Debug\Evolent.Entities.pdb
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\bin\Debug\Dapper.pdb
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\bin\Debug\Dapper.xml
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\obj\Debug\Evolent.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\obj\Debug\Evolent.DataAccess.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.DataAccess\obj\Debug\Evolent.DataAccess.pdb

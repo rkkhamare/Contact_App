@@ -1,0 +1,12 @@
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Services.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Services.pdb
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.DataAccess.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Entities.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.DataAccess.pdb
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Entities.pdb
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.pdb
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.xml
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.csprojResolveAssemblyReference.cache
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.dll
+C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.pdb

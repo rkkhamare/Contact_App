@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\bin\Debug\Evolent.WebAPI.Tests.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\bin\Debug\Evolent.WebAPI.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.WebAPI.Tests\bin\Debug\Evolent.WebAPI.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]Evolent" Expanded="true" />
+    <Node UniqueName="[0-1004]Evolent.WebAPI" Expanded="true" />
+    <Node UniqueName="[0-1005]Evolent.WebAPI.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]Evolent.WebAPI.Tests.ContactControllerTest" Expanded="true" />
+  </Nodes>
+</VisualState>
