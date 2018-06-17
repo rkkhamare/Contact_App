@@ -10,3 +10,15 @@ C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.S
 C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.csprojResolveAssemblyReference.cache
 C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.dll
 C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Services.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Services.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.DataAccess.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Entities.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.DataAccess.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Evolent.Entities.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.xml
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.csprojResolveAssemblyReference.cache
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Services\obj\Debug\Evolent.Services.pdb

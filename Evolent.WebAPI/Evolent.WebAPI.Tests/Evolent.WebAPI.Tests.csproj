@@ -115,9 +115,6 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ContactControllerTest.cs" />
-    <Compile Include="Helpers\ApiHandler.cs" />
-    <Compile Include="Helpers\ContactCompare.cs" />
-    <Compile Include="Helpers\Helper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,9 +6,9 @@ namespace Evolent.DataAccess.UnitOfWork
     public class UnitOfWork : IUnitOfWork
     {
         private readonly IContactRepository _contactRepository;
-        public UnitOfWork(IContactRepository blogRepository)
+        public UnitOfWork(IContactRepository contactRepository)
         {
-            _contactRepository = blogRepository;
+            _contactRepository = contactRepository;
         }
 
         void IUnitOfWork.Complete()

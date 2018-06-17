@@ -2,3 +2,7 @@ C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.E
 C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Entities\bin\Debug\Evolent.Entities.pdb
 C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Entities\obj\Debug\Evolent.Entities.dll
 C:\Users\khamarer\Documents\Visual Studio 2012\Projects\Evolent.WebAPI\Evolent.Entities\obj\Debug\Evolent.Entities.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Entities\bin\Debug\Evolent.Entities.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Entities\bin\Debug\Evolent.Entities.pdb
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Entities\obj\Debug\Evolent.Entities.dll
+E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.Entities\obj\Debug\Evolent.Entities.pdb
